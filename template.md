@@ -6,9 +6,9 @@ Describe the goal. We will use Bitalino to ...
 
 ## Team
 
-* Name, role
-* Name, role
-* Name, role
+* Gonçalo Telo, role
+* Débora Pera, role
+* Ana Esteves, role
 
 ## Process
 
