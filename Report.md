@@ -6,9 +6,9 @@ Describe the goal. We will use Bitalino to ...
 
 ## Team
 
-* Gonçalo Telo, role
-* Débora Pera, role
 * Ana Esteves, role
+* Débora Pera, role
+* Gonçalo Telo, role
 
 ## Process
 
@@ -16,7 +16,7 @@ We passed by the several steps:
 
 ### Step 1 - First signal recorded
 
-Int he first step we've recorded data 
+In the first step we've recorded data 
 
 This was the first signal extracted from bitalino 
 
